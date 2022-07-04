@@ -24,6 +24,7 @@ Cenário 1: Teste de abrir navegador
 
 Cenário 2: Teste de abrir site globo
     Open Browser     https://www.globo.com/    chrome
+    
 
 
 
